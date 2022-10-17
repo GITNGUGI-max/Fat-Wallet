@@ -1,0 +1,42 @@
+
+a{
+    text-decoration: none;
+    color: #fff;
+}
+a:hover{
+    color: black;
+}
+ input, .btn{
+    margin-left: 2em !important;
+    border-radius: 5px;
+    border: none;
+    margin-bottom: 1em;
+    
+}
+label{
+    margin-left: 2em;
+}
+#form{
+    
+    width: 20em;
+    border-radius: 5px;
+}
+
+#list{
+    margin-left: 1em;
+    color: aqua;
+}
+button{
+    border: none;
+    background-color: red;
+    border-radius: 50%;
+    color: #fff;
+}
+.text-info{
+    margin-top: 20px;
+}
+
+.first {
+    margin-top: 20px;
+    border-radius: 5px;
+}
